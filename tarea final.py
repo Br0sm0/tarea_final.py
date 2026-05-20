@@ -1,4 +1,4 @@
-Nombre: Brayan Stiben Montañez Fonseca
+#Nombre: Brayan Stiben Montañez Fonseca
 # Grupo: 213022_442
 # Programa: FUNDAMENTOS DE PROGRAMACIÓN
 # Código Fuente: autoría propia
